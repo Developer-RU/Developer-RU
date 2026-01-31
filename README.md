@@ -1,4 +1,4 @@
-[![Developer-RU Logo](/images/logo.png)]([https://wash-pro.tech/](https://github.com/Developer-RU))
+<!-- [![Developer-RU Logo](/images/logo.png)]([https://wash-pro.tech/](https://github.com/Developer-RU)) -->
 
 Developer-RU — lead architect and founder of WASH-PRO TECH Global. I turn algorithms into real devices: from C/C++ code for ESP32, STM32, AVR to board design and serial production. 14+ years in embedded development, with devices on the market.
 
